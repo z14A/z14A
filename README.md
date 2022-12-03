@@ -2,8 +2,8 @@
 -     Hi, I’m @z14A,I am a beginner who loves programming language
 - 👀 我对学习探索丰富多彩的编程语言世界很感兴趣
 -     I’m interested in learning to explore the colorful world of programming languages
-- 🌱 目前，我正在探索和学习C/C++和Java。我希望在编程的道路上越走越远
--     At present, I am exploring and learning C/C + + and Java. I hope to go farther and farther on the road of programming
+- 🌱 目前，我正在探索和学习C/C++和html5。我希望在编程的道路上越走越远
+-     At present, I am exploring and learning C/C + + and html5. I hope to go farther and farther on the road of programming
 - 💞️ 我希望有朋友和我一起学习，互相鼓励和指导。非常感谢。
 -     I hope to have friends to study with me, encourage and coach each other. Thank you
 - 📫 联系我，请加我QQ:2970470090
